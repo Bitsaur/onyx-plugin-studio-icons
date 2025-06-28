@@ -1,0 +1,16 @@
+{
+  "id": "studio-icons",
+  "name": "Visual Studio Icons",
+  "publisher": "Bitsaur",
+  "description": "Visual Studio icon theme for Onyx tools",
+  "author": "Bitsaur d.o.o.",
+  "version": "0.0.1",
+  "definitions": {
+    "icon_themes": [
+      {
+        "name": "Visual Studio",
+        "file": "studio.json"
+      }
+    ]
+  }
+}

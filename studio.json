@@ -1,0 +1,718 @@
+{
+  "icons":
+  {
+    "AdobeIndesign":
+    {
+      "dark": "./images/AdobeIndesign_16x_inverse.svg",
+      "light": "./images/AdobeIndesign_16x.svg"
+    },
+    "AdobeIllustrator_16x.svg":
+    {
+      "dark": "./images/AdobeIllustrator_16x_inverse.svg",
+      "light": "./images/AdobeIllustrator_16x.svg"
+    },
+    "AdobePhotoshop_16x.svg":
+    {
+      "dark": "./images/AdobePhotoshop_16x_inverse.svg",
+      "light": "./images/AdobePhotoshop_16x.svg"
+    },
+    "AndroidFile_16x.svg":
+    {
+      "dark": "./images/AndroidFile_16x_inverse.svg",
+      "light": "./images/AndroidFile_16x.svg"
+    },
+    "Application_16x.svg":
+    {
+      "dark": "./images/Application_16x_inverse.svg",
+      "light": "./images/Application_16x.svg"
+    },
+    "AudioOn_16x.svg":
+    {
+      "dark": "./images/AudioOn_16x_inverse.svg",
+      "light": "./images/AudioOn_16x.svg"
+    },
+    "ASPXFile_16x.svg":
+    {
+      "dark": "./images/ASPXFile_16x_inverse.svg",
+      "light": "./images/ASPXFile_16x.svg"
+    },
+    "AssemblerSourceFile_16x.svg":
+    {
+      "dark": "./images/AssemblerSourceFile_16x_inverse.svg",
+      "light": "./images/AssemblerSourceFile_16x.svg"
+    },
+    "BuildStyle_16x.svg":
+    {
+      "dark": "./images/BuildStyle_16x_inverse.svg",
+      "light": "./images/BuildStyle_16x.svg"
+    },
+    "CFile_16x_color.svg":
+    {
+      "dark": "./images/CFile_16x_color_inverse.svg",
+      "light": "./images/CFile_16x_color.svg"
+    },
+    "CPP_16x.svg":
+    {
+      "dark": "./images/CPP_16x_inverse.svg",
+      "light": "./images/CPP_16x.svg"
+    },
+    "CPPHeaderFile_16x.svg":
+    {
+      "dark": "./images/CPPHeaderFile_16x_inverse.svg",
+      "light": "./images/CPPHeaderFile_16x.svg"
+    },
+    "CS_16x.svg":
+    {
+      "dark": "./images/CS_16x_inverse.svg",
+      "light": "./images/CS_16x.svg"
+    },
+    "Certificate_16x.svg":
+    {
+      "dark": "./images/Certificate_16x_inverse.svg",
+      "light": "./images/Certificate_16x.svg"
+    },
+    "ConfigurationFile_16x.svg":
+    {
+      "dark": "./images/ConfigurationFile_16x_inverse.svg",
+      "light": "./images/ConfigurationFile_16x.svg"
+    },
+    "Console_16x.svg":
+    {
+      "dark": "./images/Console_16x_inverse.svg",
+      "light": "./images/Console_16x.svg"
+    },
+    "CPPApplication_16x.svg":
+    {
+      "dark": "./images/CPPApplication_16x_inverse.svg",
+      "light": "./images/CPPApplication_16x.svg"
+    },
+    "CPPATLWebService_16x.svg":
+    {
+      "dark": "./images/CPPATLWebService_16x_inverse.svg",
+      "light": "./images/CPPATLWebService_16x.svg"
+    },
+    "CSApplication_16x.svg":
+    {
+      "dark": "./images/CSApplication_16x_inverse.svg",
+      "light": "./images/CSApplication_16x.svg"
+    },
+    "CursorFile_16x.svg":
+    {
+      "dark": "./images/CursorFile_16x_inverse.svg",
+      "light": "./images/CursorFile_16x.svg"
+    },
+    "Database_16x.svg":
+    {
+      "dark": "./images/Database_16x_inverse.svg",
+      "light": "./images/Database_16x.svg"
+    },
+    "Document_16x.svg":
+    {
+      "dark": "./images/Document_16x_inverse.svg",
+      "light": "./images/Document_16x.svg"
+    },
+    "Extension_16x.svg":
+    {
+      "dark": "./images/Extension_16x_inverse.svg",
+      "light": "./images/Extension_16x.svg"
+    },
+    "ExtensionManagerManifest_16x.svg":
+    {
+      "dark": "./images/ExtensionManagerManifest_16x_inverse.svg",
+      "light": "./images/ExtensionManagerManifest_16x.svg"
+    },
+    "FileGroup_16x.svg":
+    {
+      "dark": "./images/FileGroup_16x_inverse.svg",
+      "light": "./images/FileGroup_16x.svg"
+    },
+    "FS_16x.svg":
+    {
+      "dark": "./images/FS_16x_inverse.svg",
+      "light": "./images/FS_16x.svg"
+    },
+    "FSApplication_16x.svg":
+    {
+      "dark": "./images/FSApplication_16x_inverse.svg",
+      "light": "./images/FSApplication_16x.svg"
+    },
+    "FolderOpen_16x.svg":
+    {
+      "dark": "./images/FolderOpen_16x_inverse.svg",
+      "light": "./images/FolderOpen_16x.svg"
+    },
+    "Folder_16x.svg":
+    {
+      "dark": "./images/Folder_16x_inverse.svg",
+      "light": "./images/Folder_16x.svg"
+    },
+    "Font_16x.svg":
+    {
+      "dark": "./images/Font_16x_inverse.svg",
+      "light": "./images/Font_16x.svg"
+    },
+    "GitLogo_16x.svg":
+    {
+      "dark": "./images/GitLogo_16x_inverse.svg",
+      "light": "./images/GitLogo_16x.svg"
+    },
+    "HTMLFile_16x.svg":
+    {
+      "dark": "./images/HTMLFile_16x_inverse.svg",
+      "light": "./images/HTMLFile_16x.svg"
+    },
+    "IconFile_16x.svg":
+    {
+      "dark": "./images/IconFile_16x_inverse.svg",
+      "light": "./images/IconFile_16x.svg"
+    },
+    "Image_16x.svg":
+    {
+      "dark": "./images/Image_16x_inverse.svg",
+      "light": "./images/Image_16x.svg"
+    },
+    "ImageMapFile_16x.svg":
+    {
+      "dark": "./images/ImageMapFile_16x_inverse.svg",
+      "light": "./images/ImageMapFile_16x.svg"
+    },
+    "JADEScript_16x.svg":
+    {
+      "dark": "./images/JADEScript_16x_inverse.svg",
+      "light": "./images/JADEScript_16x.svg"
+    },
+    "JARFile_16x.svg":
+    {
+      "dark": "./images/JARFile_16x_inverse.svg",
+      "light": "./images/JARFile_16x.svg"
+    },
+    "JavaFile_16x.svg":
+    {
+      "dark": "./images/JavaFile_16x_inverse.svg",
+      "light": "./images/JavaFile_16x.svg"
+    },
+    "JSCoffeeScript_16x.svg":
+    {
+      "dark": "./images/JSCoffeeScript_16x_inverse.svg",
+      "light": "./images/JSCoffeeScript_16x.svg"
+    },
+    "JSONScript_16x.svg":
+    {
+      "dark": "./images/JSONScript_16x_inverse.svg",
+      "light": "./images/JSONScript_16x.svg"
+    },
+    "JSScript_16x.svg":
+    {
+      "dark": "./images/JSScript_16x_inverse.svg",
+      "light": "./images/JSScript_16x.svg"
+    },
+    "JSXScript_16x.svg":
+    {
+      "dark": "./images/JSXScript_16x_inverse.svg",
+      "light": "./images/JSXScript_16x.svg"
+    },
+    "Key_16x.svg":
+    {
+      "dark": "./images/Key_16x_inverse.svg",
+      "light": "./images/Key_16x.svg"
+    },
+    "LessStyleSheet_16x.svg":
+    {
+      "dark": "./images/LessStyleSheet_16x_inverse.svg",
+      "light": "./images/LessStyleSheet_16x.svg"
+    },
+    "Library_16x.svg": 
+    {
+      "dark": "./images/Library_16x_inverse.svg",
+      "light": "./images/Library_16x.svg"
+    },
+    "Lock_16x.svg":
+    {
+      "dark": "./images/Lock_16x_inverse.svg",
+      "light": "./images/Lock_16x.svg"
+    },
+    "Mail_16x.svg":
+    {
+      "dark": "./images/Mail_16x_inverse.svg",
+      "light": "./images/Mail_16x.svg"
+    },
+    "MakeFile_16x.svg":
+    {
+      "dark": "./images/MakeFile_16x_inverse.svg",
+      "light": "./images/MakeFile_16x.svg"
+    },
+    "MasterPage_16x.svg":
+    {
+      "dark": "./images/MasterPage_16x_inverse.svg",
+      "light": "./images/MasterPage_16x.svg"
+    },
+    "Media_16x.svg":
+    {
+      "dark": "./images/Media_16x_inverse.svg",
+      "light": "./images/Media_16x.svg"
+    },
+    "NextDocument_16x.svg":
+    {
+      "dark": "./images/NextDocument_16x_inverse.svg",
+      "light": "./images/NextDocument_16x.svg"
+    },
+    "NodeJS_16x.svg":
+    {
+      "dark": "./images/NodeJS_16x_inverse.svg",
+      "light": "./images/NodeJS_16x.svg"
+    },
+    "OfficeAccess2013Logo_16x.svg":
+    {
+      "dark": "./images/OfficeAccess2013Logo_16x_inverse.svg",
+      "light": "./images/OfficeAccess2013Logo_16x.svg"
+    },
+    "OfficeExcel2013Logo_16x.svg":
+    {
+      "dark": "./images/OfficeExcel2013Logo_16x_inverse.svg",
+      "light": "./images/OfficeExcel2013Logo_16x.svg"
+    },
+    "OfficePowerPoint2013Logo_16x.svg":
+    {
+      "dark": "./images/OfficePowerPoint2013Logo_16x_inverse.svg",
+      "light": "./images/OfficePowerPoint2013Logo_16x.svg"
+    },
+    "OfficeProject2013Logo_16x.svg":
+    {
+      "dark": "./images/OfficeProject2013Logo_16x_inverse.svg",
+      "light": "./images/OfficeProject2013Logo_16x.svg"
+    },
+    "OfficeVisio2013Logo_16x.svg":
+    {
+      "dark": "./images/OfficeVisio2013Logo_16x_inverse.svg",
+      "light": "./images/OfficeVisio2013Logo_16x.svg"
+    },
+    "OfficeWord2013Logo_16x.svg":
+    {
+      "dark": "./images/OfficeWord2013Logo_16x_inverse.svg",
+      "light": "./images/OfficeWord2013Logo_16x.svg"
+    },
+    "Parameter_16x.svg":
+    {
+      "dark": "./images/Parameter_16x_inverse.svg",
+      "light": "./images/Parameter_16x.svg"
+    },
+    "PDFFile_16x.svg":
+    {
+      "dark": "./images/PDFFile_16x_inverse.svg",
+      "light": "./images/PDFFile_16x.svg"
+    },
+    "PHPFile_16x.svg":
+    {
+      "dark": "./images/PHPFile_16x_inverse.svg",
+      "light": "./images/PHPFile_16x.svg"
+    },
+    "Property_16x.svg":
+    {
+      "dark": "./images/Property_16x_inverse.svg",
+      "light": "./images/Property_16x.svg"
+    },
+    "PugScript_16x.svg":
+    {
+      "dark": "./images/PugScript_16x_inverse.svg",
+      "light": "./images/PugScript_16x.svg"
+    },
+    "PY_16x.svg":
+    {
+      "dark": "./images/PY_16x_inverse.svg",
+      "light": "./images/PY_16x.svg"
+    },
+    "Reference_16x.svg":
+    {
+      "dark": "./images/Reference_16x_inverse.svg",
+      "light": "./images/Reference_16x.svg"
+    },
+    "RB_FileSENode_16x.svg":
+    {
+      "dark": "./images/RB_FileSENode_16x_inverse.svg",
+      "light": "./images/RB_FileSENode_16x.svg"
+    },
+    "RustFile_16x.svg":
+    {
+      "dark": "./images/RustFile_16x_inverse.svg",
+      "light": "./images/RustFile_16x.svg"
+    },
+    "SassStyleSheet_16x.svg":
+    {
+      "dark": "./images/SassStyleSheet_16x_inverse.svg",
+      "light": "./images/SassStyleSheet_16x.svg"
+    },
+    "Settings_16x.svg":
+    {
+      "dark": "./images/Settings_16x_inverse.svg",
+      "light": "./images/Settings_16x.svg"
+    },
+    "SettingsFile_16x.svg":
+    {
+      "dark": "./images/SettingsFile_16x_inverse.svg",
+      "light": "./images/SettingsFile_16x.svg"
+    },
+    "SitemapFile_16x.svg":
+    {
+      "dark": "./images/SitemapFile_16x_inverse.svg",
+      "light": "./images/SitemapFile_16x.svg"
+    },
+    "SpecialFolder_16x.svg":
+    {
+      "dark": "./images/SpecialFolder_16x_inverse.svg",
+      "light": "./images/SpecialFolder_16x.svg"
+    },
+    "SpecialFolderOpen_16x.svg":
+    {
+      "dark": "./images/SpecialFolderOpen_16x_inverse.svg",
+      "light": "./images/SpecialFolderOpen_16x.svg"
+    },
+    "StyleSheet_16x.svg":
+    {
+      "dark": "./images/StyleSheet_16x_inverse.svg",
+      "light": "./images/StyleSheet_16x.svg"
+    },
+    "TS_FileSENode_16x.svg":
+    {
+      "dark": "./images/TS_FileSENode_16x_inverse.svg",
+      "light": "./images/TS_FileSENode_16x.svg"
+    },
+    "Table_16x.svg":
+    {
+      "dark": "./images/Table_16x_inverse.svg",
+      "light": "./images/Table_16x.svg"
+    },
+    "Text_16x.svg":
+    {
+      "dark": "./images/Text_16x_inverse.svg",
+      "light": "./images/Text_16x.svg"
+    },
+    "TextFile_16x.svg":
+    {
+      "dark": "./images/TextFile_16x_inverse.svg",
+      "light": "./images/TextFile_16x.svg"
+    },
+    "VBApplication_16x.svg":
+    {
+      "dark": "./images/VBApplication_16x_inverse.svg",
+      "light": "./images/VBApplication_16x.svg"
+    },
+    "VirtualMachine_16x.svg":
+    {
+      "dark": "./images/VirtualMachine_16x_inverse.svg",
+      "light": "./images/VirtualMachine_16x.svg"
+    },
+    "VisualStudioSettingFile_16x.svg":
+    {
+      "dark": "./images/VisualStudioSettingFile_16x_inverse.svg",
+      "light": "./images/VisualStudioSettingFile_16x.svg"
+    },
+    "WebFolder_16x.svg":
+    {
+      "dark": "./images/WebFolder_16x_inverse.svg",
+      "light": "./images/WebFolder_16x.svg"
+    },
+    "WebFolderOpen_16x.svg":
+    {
+      "dark": "./images/WebFolderOpen_16x_inverse.svg",
+      "light": "./images/WebFolderOpen_16x.svg"
+    },
+    "WebService_16x.svg":
+    {
+      "dark": "./images/WebService_16x_inverse.svg",
+      "light": "./images/WebService_16x.svg"
+    },
+    "WebURL_16x.svg":
+    {
+      "dark": "./images/WebURL_16x_inverse.svg",
+      "light": "./images/WebURL_16x.svg"
+    },
+    "WebUserControl_16x.svg":
+    {
+      "dark": "./images/WebUserControl_16x_inverse.svg",
+      "light": "./images/WebUserControl_16x.svg"
+    },
+    "XMLFile_16x.svg":
+    {
+      "dark": "./images/XMLFile_16x_inverse.svg",
+      "light": "./images/XMLFile_16x.svg"
+    },
+    "XMLSchema_16x.svg":
+    {
+      "dark": "./images/XMLSchema_16x_inverse.svg",
+      "light": "./images/XMLSchema_16x.svg"
+    },
+    "XSLTTransformFile_16x.svg":
+    {
+      "dark": "./images/XSLTTransformFile_16x_inverse.svg",
+      "light": "./images/XSLTTransformFile_16x.svg"
+    },
+    "ZipFile_16x.svg":
+    {
+      "dark": "./images/ZipFile_16x_inverse.svg",
+      "light": "./images/ZipFile_16x.svg"
+    }
+  },
+  "assign":
+  {
+    "file": "Document_16x.svg",
+    "folder": "Folder_16x.svg",
+    "folder.expanded": "FolderOpen_16x.svg",
+    "byExtension":
+    {
+      "c": "CFile_16x_color.svg",
+      "cmake": "MakeFile_16x.svg",
+      "make": "MakeFile_16x.svg",
+      "mk": "MakeFile_16x.svg",
+      "pdf": "PDFFile_16x.svg",
+      "ai": "AdobeIllustrator_16x.svg",
+      "psb": "AdobePhotoshop_16x.svg",
+      "psd": "AdobePhotoshop_16x.svg",
+      "exe": "Application_16x.svg",
+      "aac": "AudioOn_16x.svg",
+      "mp3": "AudioOn_16x.svg",
+      "flac": "AudioOn_16x.svg",
+      "m4a": "AudioOn_16x.svg",
+      "wma": "AudioOn_16x.svg",
+      "aiff": "AudioOn_16x.svg",
+      "asp": "ASPXFile_16x.svg",
+      "aspx": "ASPXFile_16x.svg",
+      "asm": "AssemblerSourceFile_16x.svg",
+      "s": "AssemblerSourceFile_16x.svg",
+      "styl": "BuildStyle_16x.svg",
+      "cc": "CFile_16x_color.svg",
+      "cpp": "CPP_16x.svg",
+      "cxx": "CPP_16x.svg",
+      "h": "CPPHeaderFile_16x.svg",
+      "hpp": "CPPHeaderFile_16x.svg",
+      "cs": "CS_16x.svg",
+      "csx": "CS_16x.svg",
+      "cert": "Certificate_16x.svg",
+      "cer": "Certificate_16x.svg",
+      "crt": "Certificate_16x.svg",
+      "config": "ConfigurationFile_16x.svg",
+      "conf": "ConfigurationFile_16x.svg",
+      "cmd": "Console_16x.svg",
+      "sh": "Console_16x.svg",
+      "bat": "Console_16x.svg",
+      "ps1": "Console_16x.svg",
+      "vcxproj": "CPPApplication_16x.svg",
+      "csproj": "CSApplication_16x.svg",
+      "cur": "CursorFile_16x.svg",
+      "sql": "Database_16x.svg",
+      "mdb": "Database_16x.svg",
+      "sqlite": "Database_16x.svg",
+      "pdb": "Database_16x.svg",
+      "vsix": "Extension_16x.svg",
+      "manifest": "ExtensionManagerManifest_16x.svg",
+      "resx": "FileGroup_16x.svg",
+      "fs": "FS_16x.svg",
+      "fsproj": "FSApplication_16x.svg",
+      "woff": "Font_16x.svg",
+      "woff2": "Font_16x.svg",
+      "ttf": "Font_16x.svg",
+      "eot": "Font_16x.svg",
+      "suit": "Font_16x.svg",
+      "otf": "Font_16x.svg",
+      "bmap": "Font_16x.svg",
+      "fnt": "Font_16x.svg",
+      "odttf": "Font_16x.svg",
+      "ttc": "Font_16x.svg",
+      "font": "Font_16x.svg",
+      "fonts": "Font_16x.svg",
+      "sui": "Font_16x.svg",
+      "ntf": "Font_16x.svg",
+      "mrf": "Font_16x.svg",
+      "htm": "HTMLFile_16x.svg",
+      "html": "HTMLFile_16x.svg",
+      "ico": "Image_16x.svg",
+      "png": "Image_16x.svg",
+      "jpeg": "Image_16x.svg",
+      "jpg": "Image_16x.svg",
+      "gif": "Image_16x.svg",
+      "svg": "Image_16x.svg",
+      "tif": "Image_16x.svg",
+      "tiff": "Image_16x.svg",
+      "ami": "Image_16x.svg",
+      "apx": "Image_16x.svg",
+      "bmp": "Image_16x.svg",
+      "bpg": "Image_16x.svg",
+      "brk": "Image_16x.svg",
+      "dds": "Image_16x.svg",
+      "dng": "Image_16x.svg",
+      "eps": "Image_16x.svg",
+      "exr": "Image_16x.svg",
+      "fpx": "Image_16x.svg",
+      "gbr": "Image_16x.svg",
+      "img": "Image_16x.svg",
+      "jbig2": "Image_16x.svg",
+      "jb2": "Image_16x.svg",
+      "jng": "Image_16x.svg",
+      "jxr": "Image_16x.svg",
+      "pbm": "Image_16x.svg",
+      "pgf": "Image_16x.svg",
+      "pic": "Image_16x.svg",
+      "raw": "Image_16x.svg",
+      "webp": "Image_16x.svg",
+      "map": "ImageMapFile_16x.svg",
+      "jade": "JADEScript_16x.svg",
+      "jar": "JARFile_16x.svg",
+      "java": "JavaFile_16x.svg",
+      "jsp": "JavaFile_16x.svg",
+      "coffee": "JSCoffeeScript_16x.svg",
+      "json": "JSONScript_16x.svg",
+      "graphql": "JSONScript_16x.svg",
+      "js": "JSScript_16x.svg",
+      "ejs": "JSScript_16x.svg",
+      "esx": "JSScript_16x.svg",
+      "jsx": "JSXScript_16x.svg",
+      "pub": "Key_16x.svg",
+      "key": "Key_16x.svg",
+      "pem": "Key_16x.svg",
+      "asc": "Key_16x.svg",
+      "less": "LessStyleSheet_16x.svg",
+      "lib": "Library_16x.svg",
+      "bib": "Library_16x.svg",
+      "lock": "Lock_16x.svg",
+      "ics": "Mail_16x.svg",
+      "mailmap": "Mail_16x.svg",
+      "nmake": "MakeFile_16x.svg",
+      "master": "MasterPage_16x.svg",
+      "webm": "Media_16x.svg",
+      "mkv": "Media_16x.svg",
+      "flv": "Media_16x.svg",
+      "f4v": "Media_16x.svg",
+      "vob": "Media_16x.svg",
+      "ogv": "Media_16x.svg",
+      "ogg": "Media_16x.svg",
+      "gifv": "Media_16x.svg",
+      "avi": "Media_16x.svg",
+      "mov": "Media_16x.svg",
+      "qt": "Media_16x.svg",
+      "wmv": "Media_16x.svg",
+      "yuv": "Media_16x.svg",
+      "rm": "Media_16x.svg",
+      "rmvb": "Media_16x.svg",
+      "mp4": "Media_16x.svg",
+      "m4v": "Media_16x.svg",
+      "mpg": "Media_16x.svg",
+      "mp2": "Media_16x.svg",
+      "mpeg": "Media_16x.svg",
+      "mpe": "Media_16x.svg",
+      "mpv": "Media_16x.svg",
+      "m2v": "Media_16x.svg",
+      "accdb": "OfficeAccess2013Logo_16x.svg",
+      "accda": "OfficeAccess2013Logo_16x.svg",
+      "accde": "OfficeAccess2013Logo_16x.svg",
+      "xsl": "XSLTTransformFile_16x.svg",
+      "xsls": "OfficeExcel2013Logo_16x.svg",
+      "ppt": "OfficePowerPoint2013Logo_16x.svg",
+      "pptx": "OfficePowerPoint2013Logo_16x.svg",
+      "mpd": "OfficeProject2013Logo_16x.svg",
+      "mpp": "OfficeProject2013Logo_16x.svg",
+      "mpt": "OfficeProject2013Logo_16x.svg",
+      "vsd": "OfficeVisio2013Logo_16x.svg",
+      "vsdx": "OfficeVisio2013Logo_16x.svg",
+      "doc": "OfficeWord2013Logo_16x.svg",
+      "docx": "OfficeWord2013Logo_16x.svg",
+      "cshtml": "Parameter_16x.svg",
+      "razor": "Parameter_16x.svg",
+      "php": "PHPFile_16x.svg",
+      "properties": "Property_16x.svg",
+      "prop": "Property_16x.svg",
+      "props": "Property_16x.svg",
+      "pug": "PugScript_16x.svg",
+      "py": "PY_16x.svg",
+      "rb": "RB_FileSENode_16x.svg",
+      "rs": "RustFile_16x.svg",
+      "rlib": "RustFile_16x.svg",
+      "sass": "SassStyleSheet_16x.svg",
+      "scss": "SassStyleSheet_16x.svg",
+      "settings": "Settings_16x.svg",
+      "asax": "SettingsFile_16x.svg",
+      "ini": "SettingsFile_16x.svg",
+      "dlc": "SettingsFile_16x.svg",
+      "dll": "SettingsFile_16x.svg",
+      "toml": "SettingsFile_16x.svg",
+      "sitemap": "SitemapFile_16x.svg",
+      "css": "StyleSheet_16x.svg",
+      "ts": "TS_FileSENode_16x.svg",
+      "tsx": "TS_FileSENode_16x.svg",
+      "d.ts": "TS_FileSENode_16x.svg",
+      "xlsx": "Table_16x.svg",
+      "xls": "Table_16x.svg",
+      "csv": "Table_16x.svg",
+      "txt": "Text_16x.svg",
+      "rtf": "Text_16x.svg",
+      "md": "TextFile_16x.svg",
+      "md.rendered": "TextFile_16x.svg",
+      "vbproj": "VBApplication_16x.svg",
+      "vdi": "VirtualMachine_16x.svg",
+      "vbox": "VirtualMachine_16x.svg",
+      "vbox-prev": "VirtualMachine_16x.svg",
+      "vscodeignore": "VisualStudioSettingFile_16x.svg",
+      "suo": "VisualStudioSettingFile_16x.svg",
+      "sln": "VisualStudioSettingFile_16x.svg",
+      "asmx": "WebService_16x.svg",
+      "url": "WebURL_16x.svg",
+      "ascx": "WebUserControl_16x.svg",
+      "xml": "XMLFile_16x.svg",
+      "dtd": "XMLFile_16x.svg",
+      "iml": "XMLFile_16x.svg",
+      "vsixmanifest": "XMLFile_16x.svg",
+      "xquery": "XMLFile_16x.svg",
+      "xsd": "XMLSchema_16x.svg",
+      "zip": "ZipFile_16x.svg",
+      "tar": "ZipFile_16x.svg",
+      "gz": "ZipFile_16x.svg",
+      "xz": "ZipFile_16x.svg",
+      "bzip2": "ZipFile_16x.svg",
+      "7z": "ZipFile_16x.svg",
+      "rar": "ZipFile_16x.svg",
+      "tgz": "ZipFile_16x.svg"
+    },
+    "byFileName":
+    {
+      "mak": "MakeFile_16x.svg",
+      "make": "MakeFile_16x.svg",
+      "makefile": "MakeFile_16x.svg",
+      "package.json": "NodeJS_16x.svg",
+      "androidmanifest.xml": "AndroidFile_16x.svg",
+      "license": "Certificate_16x.svg",
+      "license.md": "Certificate_16x.svg",
+      "license.md.rendered": "Certificate_16x.svg",
+      "license.txt": "Certificate_16x.svg",
+      ".editorconfig": "ConfigurationFile_16x.svg",
+      "dub.sdl": "CPPATLWebService_16x.svg",
+      ".gitignore": "GitLogo_16x.svg",
+      ".gitconfig": "GitLogo_16x.svg",
+      ".gitattributes": "GitLogo_16x.svg",
+      ".gitmodules": "GitLogo_16x.svg",
+      ".gitkeep": "GitLogo_16x.svg",
+      ".jscsrc": "JSONScript_16x.svg",
+      ".jshintrc": "JSONScript_16x.svg",
+      ".babelrc": "JSONScript_16x.svg",
+      "CMakeLists.txt": "MakeFile_16x.svg",
+      "cmakelists.txt": "MakeFile_16x.svg",
+      "gnumakefile": "MakeFile_16x.svg",
+      "web.debug.config": "NextDocument_16x.svg",
+      "web.release.config": "NextDocument_16x.svg",
+      ".jshintignore": "SettingsFile_16x.svg",
+      "procfile": "SettingsFile_16x.svg",
+      ".buildignore": "SettingsFile_16x.svg",
+      "tsconfig.json": "TS_FileSENode_16x.svg",
+      "tslint.json": "TS_FileSENode_16x.svg"
+    },
+    "byFolderName":
+    {
+      "properties": "Property_16x.svg",
+      "references": "Reference_16x.svg",
+      "rootFolder": "SpecialFolder_16x.svg",
+      "wwwroot": "WebFolder_16x.svg"
+    },
+    "byFolderName.expanded":
+    {
+      "rootFolder": "SpecialFolderOpen_16x.svg",
+      "wwwroot": "WebFolderOpen_16x.svg"
+    }
+  }
+}
